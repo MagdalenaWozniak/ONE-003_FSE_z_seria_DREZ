@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+	<Konfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  
+	<XLLogin_Baza>BeeFree</XLLogin_Baza>
+  
+	<XLLogin_OpeIdent>ONESUP</XLLogin_OpeIdent>
+  
+	<XLLogin_OpeHaslo></XLLogin_OpeHaslo>
+  
+	<XLServer>192.168.100.148</XLServer>
+  
+	<XLDatabase>BeeFree</XLDatabase>
+
+</Konfig>

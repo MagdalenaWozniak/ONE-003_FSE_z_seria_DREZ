@@ -1,0 +1,58 @@
+C:\Users\LattePotężnie\Desktop\ONE-003 - Dodatek wystawiający dokument FSE z serią DREZ\ClassLibrary1\obj\Debug\ONE-003 - Dodatek wystawiający dokument FSE.csprojAssemblyReference.cache
+C:\Users\LattePotężnie\Desktop\ONE-003 - Dodatek wystawiający dokument FSE z serią DREZ\ClassLibrary1\obj\Debug\ONE-003 - Dodatek wystawiający dokument FSE.csproj.GenerateResource.cache
+C:\Users\LattePotężnie\Desktop\ONE-003 - Dodatek wystawiający dokument FSE z serią DREZ\ClassLibrary1\obj\Debug\ONE-003 - Dodatek wystawiający dokument FSE.csproj.CoreCompileInputs.cache
+C:\Users\LattePotężnie\Desktop\ONE-003 - Dodatek wystawiający dokument FSE z serią DREZ\ClassLibrary1\obj\Debug\ONE003.dll
+C:\Users\LattePotężnie\Desktop\ONE-003 - Dodatek wystawiający dokument FSE z serią DREZ\ClassLibrary1\obj\Debug\ONE003.pdb
+C:\Users\LattePotężnie\Desktop\ONE-003 - Dodatek wystawiający dokument FSE z serią DREZ\ClassLibrary1\bin\Debug\ONE003.dll
+C:\Users\LattePotężnie\Desktop\ONE-003 - Dodatek wystawiający dokument FSE z serią DREZ\ClassLibrary1\bin\Debug\ONE003.pdb
+C:\Users\LattePotężnie\Desktop\ONE-003 - Dodatek wystawiający dokument FSE z serią DREZ\ClassLibrary1\bin\Debug\adodb.dll
+C:\Users\LattePotężnie\Desktop\ONE-003 - Dodatek wystawiający dokument FSE z serią DREZ\ClassLibrary1\obj\Debug\ONE-003 - Dodatek wystawiający dokument FSE.csproj.CopyComplete
+C:\Users\LattePotężnie\Desktop\ONE-003 - Dodatek wystawiający dokument FSE z serią DREZ\ClassLibrary1\obj\Debug\WystawianieDokumentuFSE.WprowadzPola.resources
+C:\Users\LattePotężnie\Desktop\ONE-003 - Dodatek wystawiający dokument FSE z serią DREZ\ClassLibrary1\obj\Debug\WystawianieDokumentuFSE.WybierzMiesiac.resources
+C:\Users\LattePotężnie\Desktop\ONE-003 - Dodatek wystawiający dokument FSE z serią DREZ\ClassLibrary1\bin\Debug\cdn_api20172.net.dll
+C:\Users\Bartek\VS\ONE-003 - Dodatek wystawiający dokument FSE z serią DREZ\ClassLibrary1\bin\Debug\ONE003.dll
+C:\Users\Bartek\VS\ONE-003 - Dodatek wystawiający dokument FSE z serią DREZ\ClassLibrary1\bin\Debug\ONE003.pdb
+C:\Users\Bartek\VS\ONE-003 - Dodatek wystawiający dokument FSE z serią DREZ\ClassLibrary1\bin\Debug\adodb.dll
+C:\Users\Bartek\VS\ONE-003 - Dodatek wystawiający dokument FSE z serią DREZ\ClassLibrary1\obj\Debug\ONE-003 - Dodatek wystawiający dokument FSE.csprojAssemblyReference.cache
+C:\Users\Bartek\VS\ONE-003 - Dodatek wystawiający dokument FSE z serią DREZ\ClassLibrary1\obj\Debug\ONE-003 - Dodatek wystawiający dokument FSE.csproj.CoreCompileInputs.cache
+C:\Users\Bartek\VS\ONE-003 - Dodatek wystawiający dokument FSE z serią DREZ\ClassLibrary1\obj\Debug\ONE-003 - Dodatek wystawiający dokument FSE.csproj.CopyComplete
+C:\Users\Bartek\VS\ONE-003 - Dodatek wystawiający dokument FSE z serią DREZ\ClassLibrary1\obj\Debug\ONE003.dll
+C:\Users\Bartek\VS\ONE-003 - Dodatek wystawiający dokument FSE z serią DREZ\ClassLibrary1\obj\Debug\ONE003.pdb
+C:\Users\Bartek\VS\ONE-003 - Dodatek wystawiający dokument FSE z serią DREZ\ClassLibrary1\obj\Debug\WystawianieDokumentuFSE.WybierzMiesiac.resources
+C:\Users\Bartek\VS\ONE-003 - Dodatek wystawiający dokument FSE z serią DREZ\ClassLibrary1\obj\Debug\ONE-003 - Dodatek wystawiający dokument FSE.csproj.GenerateResource.cache
+C:\Users\Bartek\VS\ONE-003 - Dodatek wystawiający dokument FSE z serią DREZ\ClassLibrary1\obj\Debug\WystawianieDokumentuFSE.WprowadzPola.resources
+C:\Users\Bartek\VS\ONE-003\ClassLibrary1\bin\Debug\ONE003.dll
+C:\Users\Bartek\VS\ONE-003\ClassLibrary1\bin\Debug\ONE003.pdb
+C:\Users\Bartek\VS\ONE-003\ClassLibrary1\bin\Debug\adodb.dll
+C:\Users\Bartek\VS\ONE-003\ClassLibrary1\obj\Debug\ONE-003 - Dodatek wystawiający dokument FSE.csprojAssemblyReference.cache
+C:\Users\Bartek\VS\ONE-003\ClassLibrary1\obj\Debug\WystawianieDokumentuFSE.WprowadzPola.resources
+C:\Users\Bartek\VS\ONE-003\ClassLibrary1\obj\Debug\WystawianieDokumentuFSE.WybierzMiesiac.resources
+C:\Users\Bartek\VS\ONE-003\ClassLibrary1\obj\Debug\ONE-003 - Dodatek wystawiający dokument FSE.csproj.GenerateResource.cache
+C:\Users\Bartek\VS\ONE-003\ClassLibrary1\obj\Debug\ONE-003 - Dodatek wystawiający dokument FSE.csproj.CoreCompileInputs.cache
+C:\Users\Bartek\VS\ONE-003\ClassLibrary1\obj\Debug\ONE-003 - Dodatek wystawiający dokument FSE.csproj.CopyComplete
+C:\Users\Bartek\VS\ONE-003\ClassLibrary1\obj\Debug\ONE003.dll
+C:\Users\Bartek\VS\ONE-003\ClassLibrary1\obj\Debug\ONE003.pdb
+C:\Users\LattePotężnie\Desktop\P R A C A\arc one003\ONE-003\ClassLibrary1\bin\Debug\ONE003.dll
+C:\Users\LattePotężnie\Desktop\P R A C A\arc one003\ONE-003\ClassLibrary1\bin\Debug\ONE003.pdb
+C:\Users\LattePotężnie\Desktop\P R A C A\arc one003\ONE-003\ClassLibrary1\bin\Debug\adodb.dll
+C:\Users\LattePotężnie\Desktop\P R A C A\arc one003\ONE-003\ClassLibrary1\obj\Debug\ONE-003 - Dodatek wystawiający dokument FSE.csprojAssemblyReference.cache
+C:\Users\LattePotężnie\Desktop\P R A C A\arc one003\ONE-003\ClassLibrary1\obj\Debug\WystawianieDokumentuFSE.WprowadzPola.resources
+C:\Users\LattePotężnie\Desktop\P R A C A\arc one003\ONE-003\ClassLibrary1\obj\Debug\WystawianieDokumentuFSE.WybierzMiesiac.resources
+C:\Users\LattePotężnie\Desktop\P R A C A\arc one003\ONE-003\ClassLibrary1\obj\Debug\ONE-003 - Dodatek wystawiający dokument FSE.csproj.GenerateResource.cache
+C:\Users\LattePotężnie\Desktop\P R A C A\arc one003\ONE-003\ClassLibrary1\obj\Debug\ONE-003 - Dodatek wystawiający dokument FSE.csproj.CoreCompileInputs.cache
+C:\Users\LattePotężnie\Desktop\P R A C A\arc one003\ONE-003\ClassLibrary1\obj\Debug\ONE-003 - Dodatek wystawiający dokument FSE.csproj.CopyComplete
+C:\Users\LattePotężnie\Desktop\P R A C A\arc one003\ONE-003\ClassLibrary1\obj\Debug\ONE003.dll
+C:\Users\LattePotężnie\Desktop\P R A C A\arc one003\ONE-003\ClassLibrary1\obj\Debug\ONE003.pdb
+C:\Users\bartek\xl\ONE-003\ClassLibrary1\obj\Debug\ONE-003 - Dodatek wystawiający dokument FSE.csprojAssemblyReference.cache
+C:\Users\bartek\xl\ONE-003\ClassLibrary1\obj\Debug\WystawianieDokumentuFSE.WprowadzPola.resources
+C:\Users\bartek\xl\ONE-003\ClassLibrary1\obj\Debug\WystawianieDokumentuFSE.WybierzMiesiac.resources
+C:\Users\bartek\xl\ONE-003\ClassLibrary1\obj\Debug\ONE-003 - Dodatek wystawiający dokument FSE.csproj.GenerateResource.cache
+C:\Users\bartek\xl\ONE-003\ClassLibrary1\obj\Debug\ONE-003 - Dodatek wystawiający dokument FSE.csproj.CoreCompileInputs.cache
+C:\Users\bartek\xl\ONE-003\ClassLibrary1\obj\Debug\ONE003.dll
+C:\Users\bartek\xl\ONE-003\ClassLibrary1\obj\Debug\ONE003.pdb
+C:\Users\bartek\xl\ONE-003\ClassLibrary1\bin\Debug\ONE003.dll
+C:\Users\bartek\xl\ONE-003\ClassLibrary1\bin\Debug\ONE003.pdb
+C:\Users\bartek\xl\ONE-003\ClassLibrary1\bin\Debug\adodb.dll
+C:\Users\bartek\xl\ONE-003\ClassLibrary1\bin\Debug\CdnHydra.dll
+C:\Users\bartek\xl\ONE-003\ClassLibrary1\bin\Debug\cdn_api20210.net.dll
+C:\Users\bartek\xl\ONE-003\ClassLibrary1\obj\Debug\ONE-003 - Dodatek wystawiający dokument FSE.csproj.CopyComplete
